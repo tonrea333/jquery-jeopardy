@@ -1,0 +1,50 @@
+#masterbody {
+
+    background-color: black;
+   
+}
+#mdiv {
+
+display: grid;
+grid-template-columns:repeat(5, 100px);
+grid-template-rows: repeat(5,100px);
+background-color: aqua;
+padding: 10px;
+   
+   
+}
+.boxdiv {
+
+display: grid;
+background-color: crimson;
+border: 1px solid blue ;
+padding: 20px;
+}
+.boxdiv1 {
+
+    display: grid;
+    background-color: crimson;
+    border: 1px solid blue ;
+    padding: 20px;
+    }
+    .boxdiv2 {
+
+        display: grid;
+        background-color: crimson;
+        border: 1px solid blue ;
+        padding: 20px;
+        }
+        .boxdiv3 {
+
+            display: grid;
+            background-color: crimson;
+            border: 1px solid blue ;
+            padding: 20px;
+            }
+            .boxdiv4 {
+
+                display: grid;
+                background-color: crimson;
+                border: 1px solid blue ;
+                padding: 20px;
+                }
