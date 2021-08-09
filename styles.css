@@ -1,50 +1,89 @@
-#masterbody {
 
-    background-color: black;
+
    
-}
-#mdiv {
-
-display: grid;
-grid-template-columns:repeat(5, 100px);
-grid-template-rows: repeat(5,100px);
-background-color: aqua;
-padding: 10px;
-   
-   
-}
-.boxdiv {
-
-display: grid;
-background-color: crimson;
-border: 1px solid blue ;
-padding: 20px;
-}
-.boxdiv1 {
-
+#header {
     display: grid;
-    background-color: crimson;
-    border: 1px solid blue ;
-    padding: 20px;
-    }
-    .boxdiv2 {
+    justify-content: center;
+    color: goldenrod;
+    text-shadow: black;
+    font-size: 50px;
+}
 
-        display: grid;
-        background-color: crimson;
-        border: 1px solid blue ;
-        padding: 20px;
-        }
-        .boxdiv3 {
+#box {
 
-            display: grid;
-            background-color: crimson;
-            border: 1px solid blue ;
-            padding: 20px;
-            }
-            .boxdiv4 {
+display: grid;
+grid-template-columns:repeat(5, 110px);
+grid-template-rows: repeat(5,65px);
+grid-auto-flow: column;
+justify-content: center;
 
-                display: grid;
-                background-color: crimson;
-                border: 1px solid blue ;
+}
+
+#box #row {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
                 padding: 20px;
-                }
+                color: gold;
+                text-align: center;
+} 
+#box #row:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+
+#box #row2 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+}
+#box #row2:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+#box #row3 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+} 
+#box #row3:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+#box #row4 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+} 
+#box #row4:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+#box #row5 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+} 
+#box #row5:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+
+/**grid-template-areas: 
+"rowOne rowOne rowOne rowOne rowOne"
+"rowTwo rowTwo rowTwo rowTwo rowTwo"
+"rowThree rowThree rowThree rowThree rowThree"
+"rowFour rowFour rowFour rowFour rowFour"
+"rowFive rowFive rowFive rowFive rowFive";**/
