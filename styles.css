@@ -1,5 +1,7 @@
 
-
+#masterbody {
+    background-color: blanchedalmond;
+}
    
 #header {
     display: grid;
@@ -79,6 +81,275 @@ justify-content: center;
     opacity: 1.;
     background-color: rgb(201, 168, 119)
 }
+
+#box #row6 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+} 
+#box #row6:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+
+#box #row7 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+}
+#box #row7:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+#box #row8 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+} 
+#box #row8:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+#box #row9 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+} 
+#box #row9:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+#box #row10 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+} 
+#box #row10:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+#box #row11 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+} 
+#box #row11:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+
+#box #row12 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+}
+#box #row12:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+#box #row13 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+} 
+#box #row13:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+#box #row14 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+} 
+#box #row14:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+#box #row15 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+} 
+#box #row15:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+#box #row16 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+} 
+#box #row16:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+
+#box #row17 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+}
+#box #row17:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+#box #row18 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+} 
+#box #row18:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+#box #row19 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+} 
+#box #row19:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+#box #row20 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+} 
+#box #row20:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+#box #row21 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+} 
+#box #row21:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+
+#box #row22 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+}
+#box #row22:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+#box #row23 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+} 
+#box #row23:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+#box #row24 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+} 
+#box #row24:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+#box #row25 {
+    background-color: rgb(12, 12, 155);
+                border: 5px solid black ;
+                padding: 20px;
+                color: gold;
+                text-align: center;
+} 
+#box #row25:hover {
+    opacity: 1.;
+    background-color: rgb(201, 168, 119)
+}
+
+#questions {
+    border: 1px solid black;
+    padding: 20px;
+   display: flexbox;
+margin-left: 240px;
+text-align: center;
+    width: 50%; 
+    margin-top: 10px;
+    font-size: 10px;
+
+
+}
+
+#button {
+    width: 60px;
+    height:30px;
+    font-size: 30%;
+    background-color:rgb(12, 12, 155);
+    color: gold;
+    border-radius: 50px;
+    text-shadow: blue;
+
+}
+
+
 
 
 /**grid-template-areas: 
