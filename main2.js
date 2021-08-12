@@ -2,12 +2,27 @@
 const pushButton = document.querySelector("#button");
 const bodyMaster = document.querySelector("#masterbody");
 const questionAnswer = document.querySelector("#answers");
+//=========================================================
+//fucntion to redirect to Double Jeopardy
 
+const jeoDouble = document.querySelector("#button2");
+jepBoxes.addEventListener("click", jeo2);
+function jeo2() {
+    location.href = "index2.html"
+}
+
+
+
+
+
+//=====================================================
+
+//Total score    
 let totalScore = localStorage.getItem("myscore");
 
 pushButton.addEventListener("click", jepBoxes);
 
-//function onClick(){
+//function onClick builds Jeopardy game
 
 function jepBoxes() {
 
